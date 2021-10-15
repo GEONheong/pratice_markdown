@@ -81,5 +81,3 @@ function func(){
 - [x] Write book
 - [ ] coding
 - [ ] exercise
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-

@@ -46,3 +46,38 @@ this is my `first` code
 [title](https://www.hallym.ac.kr)
 
 ![alt text](image.jpg)
+
+### Table
+
+| Syntax | Description | yes/no |
+| ----------- | ---------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
+| 사과 | 바나나 |
+
+
+### Code Block
+
+```c
+#include <stdio.h>
+
+int main() {
+    int num = 10;
+
+    prtinf("Number : %d",num);
+
+    return 0;
+}
+```
+
+```javascript
+function func(){
+    var a = 'aaa';
+    return a;
+}
+```
+
+### Task List
+- [x] Write book
+- [ ] coding
+- [ ] exercise
